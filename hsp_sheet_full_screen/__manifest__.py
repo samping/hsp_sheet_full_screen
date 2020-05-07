@@ -3,7 +3,10 @@
 {
     'name': "odoo enterprise sheet full screen by HSP",
 
-    'summary': "odoo enterprise sheet full screen",
+    'summary': """
+    odoo enterprise sheet full screen
+    odoo企业版表单全屏显示
+   """,,
    'license': 'LGPL-3',
    'description': """
     odoo enterprise sheet full screen
@@ -11,7 +14,7 @@
    """,
     'author': 'HSP',
     'website': "https://www.garage-kit.com",
-    'images': ['static/description/3.png','static/description/2.png'],
+    'images': ['static/description/2.gif'],
     'category': 'Tools',
     'version': '13.0.1.0.0',
   
