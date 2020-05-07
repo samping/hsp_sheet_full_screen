@@ -6,7 +6,7 @@
     'summary': """
     odoo enterprise sheet full screen
     odoo企业版表单全屏显示
-   """,,
+   """,
    'license': 'LGPL-3',
    'description': """
     odoo enterprise sheet full screen
